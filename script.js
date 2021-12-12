@@ -104,8 +104,3 @@ async function SearchProfile() {
         ProfileSec2.appendChild(ProfileImage);
     }
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
